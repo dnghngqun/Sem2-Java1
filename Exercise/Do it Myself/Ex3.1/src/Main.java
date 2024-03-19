@@ -1,4 +1,10 @@
 import static java.lang.System.out;
+/**
+ * Xây dựng chương trình hiển thị ra hình chữ nhật và tính chu vi diện tích.
+ *
+ * @author (Dang Hong Quan)
+ * @version (21.0.2)
+ */
 
 public class Main {
     public static void main(String[] args) {
