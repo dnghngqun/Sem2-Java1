@@ -14,4 +14,4 @@ public class Exercise3 {
         System.out.println(intMatrix[1][2] * 3);
 
     }
-}
+}sy
