@@ -1,5 +1,10 @@
 import static java.lang.System.out;
-
+/**
+ * Lớp FlashLamp sử dụng lớp Battery để xây dựng chương trình java theo kịch bản.
+ *
+ * @author (Dang Hong Quan)
+ * @version (21.0.2)
+ */
 public class Battery {
     private int energy;
 
