@@ -1,4 +1,11 @@
 import static java.lang.System.out;
+
+/**
+ * Lớp Client sử dụng lớp Student để xây dựng chương trình java theo kịch bản.
+ *
+ * @author (Dang Hong Quan)
+ * @version (21.0.2)
+ */
 public class Students {
     private int id;
     private String name;
