@@ -11,8 +11,8 @@ public class Students {
     private String name;
     private Boolean gender;//true is male, false is female
 
-    public Students(int id, String name, Boolean gender) {
-        this.id = id;
+    public Students(int a, String name, Boolean gender) {
+        this.id = a;
         this.name = name;
         this.gender = gender;
     }
