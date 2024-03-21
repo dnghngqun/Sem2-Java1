@@ -18,6 +18,6 @@ public class SwitchButton {
         lamp.turnOff();
     }
     public void SwitchButton(){
-        //has written in main
+       this.status = false;
     }
 }
