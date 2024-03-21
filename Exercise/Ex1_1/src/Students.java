@@ -9,16 +9,16 @@ import static java.lang.System.out;
 public class Students {
     private int id;
     private String name;
-    private Boolean gender;//true is male, false is female
+    private Boolean gender;// true is male, false is female
 
-    public Students(int a, String name, Boolean gender) {
-        this.id = a;
+    public Students(int id, String name, Boolean gender) {
+        this.id = id;
         this.name = name;
         this.gender = gender;
     }
 
-    //getter
-    public int getId(){
+    // getter
+    public int getId() {
         return this.id;
     }
 
@@ -30,22 +30,20 @@ public class Students {
         return this.gender;
     }
 
-    //setter
+    // setter
     public int setId(int id) {
         return this.id = id;
     }
 
-    public String setName(String name){
+    public String setName(String name) {
         return this.name = name;
     }
 
-    public Boolean setMale(Boolean gender){
+    public Boolean setMale(Boolean gender) {
         return this.gender = gender;
     }
 
-
-
-    public void printInfo(){
+    public void printInfo() {
         String genderConvert = this.isMale() ? "Male" : "Female";
         out.println("-----------------------------------");
         out.println("| ID | Name   | Gender |");
