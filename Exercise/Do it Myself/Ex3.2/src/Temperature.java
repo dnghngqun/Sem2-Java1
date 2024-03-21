@@ -1,7 +1,7 @@
 public class Temperature {
     private double cTemp;
 
-    public void Temperature(double cTemp){
+    public void Temperature(double cTemp) {
         this.cTemp = cTemp;
     }
 
@@ -13,15 +13,15 @@ public class Temperature {
         this.cTemp = cTemp;
     }
 
-    public double getFTemp(){
+    public double getFTemp() {
         return (cTemp * 9 / 5) + 32;
     }
 
-    public double getKTemp(){
+    public double getKTemp() {
         return cTemp + 273.15;
     }
 
-    public void Temperature(){
-        // //has been written in main
+    public void Temperature() {
+        this.cTemp = 30;
     }
 }
