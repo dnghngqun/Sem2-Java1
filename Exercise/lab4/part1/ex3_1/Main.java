@@ -1,3 +1,5 @@
+package lab4.part1.ex3_1;
+
 
 public class Main
 {
