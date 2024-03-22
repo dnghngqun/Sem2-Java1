@@ -1,8 +1,7 @@
-package Part1.Ex3_1;
 
 public class Main
 {
-    public static void main(){
+    public static void main(String[] args) {
        SportCar sportCar = new SportCar();
        Car car = new Car();
 

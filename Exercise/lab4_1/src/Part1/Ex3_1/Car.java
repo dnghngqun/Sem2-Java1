@@ -1,4 +1,3 @@
-package Part1.Ex3_1;
 
 public class Car
 {
