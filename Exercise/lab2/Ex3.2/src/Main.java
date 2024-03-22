@@ -7,9 +7,9 @@ import static java.lang.System.out;
  */
 public class Main {
     public static void main(String[] args) {
-       Temperature rectancle = new Temperature();
-       rectancle.setcTemp(25);
-       out.println("Độ F của vật là: " + rectancle.getFTemp());
-       out.println("Độ K của vật là: " + rectancle.getKTemp());
+        Temperature rectancle = new Temperature();
+        rectancle.setcTemp(25);
+        out.println("Độ F của vật là: " + rectancle.getFTemp());
+        out.println("Độ K của vật là: " + rectancle.getKTemp());
     }
 }

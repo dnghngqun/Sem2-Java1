@@ -18,6 +18,6 @@ public class SwitchButton {
         lamp.turnOff();
     }
     public void SwitchButton(){
-       this.status = false;
+        this.status = false;
     }
 }
