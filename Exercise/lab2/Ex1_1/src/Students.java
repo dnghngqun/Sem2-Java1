@@ -9,7 +9,7 @@ import static java.lang.System.out;
 public class Students {
     private int id;
     private String name;
-    private Boolean gender;// true is male, false is female
+    private boolean gender;// true is male, false is female
 
     public Students(int id, String name, Boolean gender) {
         this.id = id;

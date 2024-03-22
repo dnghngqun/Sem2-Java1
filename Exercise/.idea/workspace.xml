@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5daa7f09-cb80-43f2-a04b-bfd62dabd8d5" name="Changes" comment="CodeAcademy">
+      <change afterPath="$PROJECT_DIR$/lab4/lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/Part1/Ex3_1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/Part1/Ex3_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/src/Part1/Ex3_1/SportCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Exercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Do it Myself/Do it Myself.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Do it Myself/Ex3.1/Ex3.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Do it Myself/Ex3.1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Do it Myself/Ex3.1/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Do it Myself/Ex3.2/Ex3.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Do it Myself/Ex3.2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Do it Myself/Ex3.2/src/Temperature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Do it Myself/Ex3.3/Ex3.3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Do it Myself/Ex3.3/src/ElectricLamp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Do it Myself/Ex3.3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Do it Myself/Ex3.3/src/SwitchButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1_1/Ex1_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1_1/src/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1_1/src/Students.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/Ex2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/src/Battery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/src/FlashLamp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex1/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex1_1/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex1_1/Students.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex2/Battery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex2/FlashLamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex3.1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex3.1/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex3.2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex3.2/Temperature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex3.3/ElectricLamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex3.3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ex3.3/SwitchButton.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2dtTgYB88iq2IXfRrFcgKHs8aCB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Client.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/hongquan/code/vscode/Aptech/SEM 2/T2307M/Java1/Exercise",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="Ex1_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Ex3.3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Ex3.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5daa7f09-cb80-43f2-a04b-bfd62dabd8d5" name="Changes" comment="" />
+      <created>1710826487028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710826487028</updated>
+      <workItem from="1710826488354" duration="3514000" />
+      <workItem from="1710830561977" duration="315000" />
+      <workItem from="1710834761777" duration="6711000" />
+      <workItem from="1710946097155" duration="311000" />
+      <workItem from="1710982109511" duration="705000" />
+      <workItem from="1710990236932" duration="1655000" />
+      <workItem from="1710995504133" duration="676000" />
+      <workItem from="1711103404457" duration="1004000" />
+    </task>
+    <task id="LOCAL-00001" summary="codeAcademy">
+      <option name="closed" value="true" />
+      <created>1710828866018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710828866018</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ex1">
+      <option name="closed" value="true" />
+      <created>1710829945064</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710829945064</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ex1">
+      <option name="closed" value="true" />
+      <created>1710830039745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710830039745</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ex1">
+      <option name="closed" value="true" />
+      <created>1710830201381</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710830201381</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ex2">
+      <option name="closed" value="true" />
+      <created>1710837154567</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710837154567</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ex1">
+      <option name="closed" value="true" />
+      <created>1710839336267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710839336267</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ex2">
+      <option name="closed" value="true" />
+      <created>1710839352288</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710839352288</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Do it Myself - Ex1">
+      <option name="closed" value="true" />
+      <created>1710839391663</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710839391663</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ex">
+      <option name="closed" value="true" />
+      <created>1710839434517</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710839434517</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Do it Myself-Ex3">
+      <option name="closed" value="true" />
+      <created>1710841520082</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710841520082</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Do it Myself-Ex1">
+      <option name="closed" value="true" />
+      <created>1710841537846</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710841537846</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Do it Myself-Ex2">
+      <option name="closed" value="true" />
+      <created>1710841546226</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710841546226</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Do it Myself-Ex2">
+      <option name="closed" value="true" />
+      <created>1710841623398</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710841623398</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Do it Myself">
+      <option name="closed" value="true" />
+      <created>1710841854375</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710841854375</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Do it Myself - Ex1">
+      <option name="closed" value="true" />
+      <created>1710990264579</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710990264579</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Do it Myself - Ex3">
+      <option name="closed" value="true" />
+      <created>1710990274398</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710990274398</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Do it Myself - Ex2">
+      <option name="closed" value="true" />
+      <created>1710990280150</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710990280150</updated>
+    </task>
+    <task id="LOCAL-00018" summary="CodeAcademy">
+      <option name="closed" value="true" />
+      <created>1711105144289</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711105144289</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="codeAcademy" />
+    <MESSAGE value="Ex1" />
+    <MESSAGE value="Ex2" />
+    <MESSAGE value="Ex" />
+    <MESSAGE value="Do it Myself-Ex3" />
+    <MESSAGE value="Do it Myself-Ex1" />
+    <MESSAGE value="Do it Myself-Ex2" />
+    <MESSAGE value="Do it Myself" />
+    <MESSAGE value="Do it Myself - Ex1" />
+    <MESSAGE value="Do it Myself - Ex3" />
+    <MESSAGE value="Do it Myself - Ex2" />
+    <MESSAGE value="CodeAcademy" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeAcademy" />
+  </component>
+</project>
