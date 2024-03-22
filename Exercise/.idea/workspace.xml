@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5daa7f09-cb80-43f2-a04b-bfd62dabd8d5" name="Changes" comment="CodeAcademy">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/src/Part1/Ex3_1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/Part1/Ex3_1/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/src/Part1/Ex3_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/Part1/Ex3_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/src/Part1/Ex3_1/SportCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/src/Part1/Ex3_1/SportCar.java" afterDir="false" />
-    </list>
+    <list default="true" id="5daa7f09-cb80-43f2-a04b-bfd62dabd8d5" name="Changes" comment="CodeAcademy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +123,7 @@
       <workItem from="1710982109511" duration="705000" />
       <workItem from="1710990236932" duration="1655000" />
       <workItem from="1710995504133" duration="676000" />
-      <workItem from="1711103404457" duration="1818000" />
+      <workItem from="1711103404457" duration="2684000" />
     </task>
     <task id="LOCAL-00001" summary="codeAcademy">
       <option name="closed" value="true" />
