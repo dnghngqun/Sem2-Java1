@@ -5,71 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5daa7f09-cb80-43f2-a04b-bfd62dabd8d5" name="Changes" comment="CodeAcademy">
-      <change afterPath="$PROJECT_DIR$/lab2/Ex1/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Ex1/src/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Ex3.1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Ex3.1/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Ex3.2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Ex3.2/src/Temperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Ex3.3/src/ElectricLamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Ex3.3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/Ex3.3/src/SwitchButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/out/production/Ex1/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/out/production/Ex1/Students.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/.idea/Exercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/Do it Myself/Ex3.1/Ex3.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/Do it Myself/Ex3.2/Ex3.2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/Do it Myself/Ex3.3/Ex3.3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/Ex1_1/Ex1_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/Ex2/Ex2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/Ex2/src/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/Ex2/src/FlashLamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/Ex2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex2/Battery.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex2/FlashLamp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex3.1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex3.1/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex3.2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex3.2/Temperature.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex3.3/ElectricLamp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex3.3/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex3.3/SwitchButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/.idea/Exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/.idea/lab2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Do it Myself/Do it Myself.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/Ex1/Ex1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Do it Myself/Ex3.1/Ex3.1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/Ex3.1/Ex3.1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Do it Myself/Ex3.1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/Do it Myself/Ex3.1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Do it Myself/Ex3.1/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/Do it Myself/Ex3.1/src/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Do it Myself/Ex3.2/Ex3.2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/Ex3.2/Ex3.2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Do it Myself/Ex3.2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/Do it Myself/Ex3.2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Do it Myself/Ex3.2/src/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/Do it Myself/Ex3.2/src/Temperature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Do it Myself/Ex3.3/Ex3.3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/Ex3.3/Ex3.3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Do it Myself/Ex3.3/src/ElectricLamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/Do it Myself/Ex3.3/src/ElectricLamp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Do it Myself/Ex3.3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/Do it Myself/Ex3.3/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Do it Myself/Ex3.3/src/SwitchButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/Do it Myself/Ex3.3/src/SwitchButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Ex1_1/Ex1_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/Do it Myself/Do it Myself.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Ex1_1/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/Ex1_1/src/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Ex1_1/src/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/Ex1_1/src/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/out/production/Ex1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/out/production/Ex1/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex1/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/out/production/Ex1_1/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex1_1/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/out/production/Ex1_1/Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab2_1/out/production/Ex1_1/Students.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/out/production/Ex2/Battery.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/out/production/Ex2/Battery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/out/production/Ex2/FlashLamp.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/out/production/Ex2/FlashLamp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/out/production/Ex2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/out/production/Ex2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/out/production/Ex3.1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/out/production/Ex3.1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/out/production/Ex3.2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/out/production/Ex3.2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/out/production/Ex3.2/Temperature.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/out/production/Ex3.2/Temperature.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/out/production/Ex3.3/SwitchButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/out/production/Ex3.3/SwitchButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/part1/ex3_1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4_1/part1/ex3_1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/part1/ex3_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4_1/part1/ex3_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/part1/ex3_1/SportCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab4_1/part1/ex3_1/SportCar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +132,7 @@
       <workItem from="1710982109511" duration="705000" />
       <workItem from="1710990236932" duration="1655000" />
       <workItem from="1710995504133" duration="676000" />
-      <workItem from="1711103404457" duration="4775000" />
+      <workItem from="1711103404457" duration="5173000" />
     </task>
     <task id="LOCAL-00001" summary="codeAcademy">
       <option name="closed" value="true" />
