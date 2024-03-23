@@ -18,7 +18,8 @@ public class Cylinder extends Circle {
     @Override
     public double getArena(){
         double Sxq = 2 * PI * this.getRadius() * this.height;
-        return super.getArena() + Sxq;
+        double Sd = PI * this.getRadius() * this.getRadius();
+        return Sd + Sxq;
     }
     @Override
     public String toString(){

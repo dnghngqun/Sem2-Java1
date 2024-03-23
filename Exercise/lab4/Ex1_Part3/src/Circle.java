@@ -1,4 +1,4 @@
-public class Circle {
+public abstract class Circle {
     private double radius;
     private String color;
 
@@ -17,11 +17,7 @@ public class Circle {
         return this.color;
     }
 
-    public double getArena(){
-        return PI * this.radius * this.radius;
-    }
+    public abstract double getArena();
 
-    public String toString(){
-        return "Hình tròn bán kính " + this.radius + ", màu " + this.color + ", có diện tích bằng " + this.getArena();
-    }
+    public abstract String toString();
 }
