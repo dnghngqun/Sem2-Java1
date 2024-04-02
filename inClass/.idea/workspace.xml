@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2faebbf-aae5-4f92-a668-a048d75965d7" name="Changes" comment="InClass">
-      <change beforePath="$PROJECT_DIR$/../Class/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class/.idea/Class.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class/Eg/Eg.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class/Eg/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class/Eg/src/Session2/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class/Eg/src/Session2/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Class/Eg/src/Session2/Dog.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment7.drawio.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +100,7 @@
       <workItem from="1711161125618" duration="180000" />
       <workItem from="1711417201474" duration="209000" />
       <workItem from="1711592615416" duration="175000" />
+      <workItem from="1712023119485" duration="433000" />
     </task>
     <task id="LOCAL-00001" summary="InClass">
       <option name="closed" value="true" />
