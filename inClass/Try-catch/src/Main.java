@@ -1,3 +1,6 @@
+import java.util.InputMismatchException;
+import java.util.Scanner;
+
 public class Main {
     /*
      * Khối lệnh try catch finally
@@ -34,7 +37,29 @@ public class Main {
      * Ví dụ: public methodName() throws Exception_name_1, Exception_name_2, Exception_name_3{}
      *
      * */
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
 
+//        ThrowDemo.validate();
+//        ThrowsDemo.getAge();
+        //custom exception
+        try{
+            int age = inputAge();
+            System.out.println("Age: " + age);
+        }catch(AgeCheckingException e){
+            System.err.println(e.getMessage());
+        }
+    }
+
+    static int inputAge() throws AgeCheckingException {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Input your age: ");
+        int age = 0;
+        try{
+            age = scanner.nextInt();
+            if(age <= 0) throw new AgeCheckingException("Age must be greater than 0");
+        }catch(InputMismatchException e){
+            throw new AgeCheckingException("Age must be an integer");
+        }
+        return age;
     }
 }
