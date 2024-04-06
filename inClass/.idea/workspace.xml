@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2faebbf-aae5-4f92-a668-a048d75965d7" name="Changes" comment="InClass">
-      <change afterPath="$PROJECT_DIR$/Collection/Collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/labguide5/LyricSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/labguide5/LyricWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/labguide5/PlanetDiameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/labguide5/StudentManagement/AppManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/labguide5/StudentManagement/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +33,12 @@
     &quot;assignee&quot;: &quot;dnghngqun&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="12cc414b-03f3-4302-a233-c4d9e5aadf4a" />
-        <option name="url" value="https://github.com/dnghngqun/Sem2-Java1.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dnghngqun/Sem2-Java1.git",
+    "accountId": "12cc414b-03f3-4302-a233-c4d9e5aadf4a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -50,7 +53,11 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Array_List.executor": "Run",
+    "Application.LyricSet.executor": "Run",
+    "Application.LyricSetHashSet.executor": "Run",
+    "Application.LyricWorld.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.PlanetDiameters.executor": "Run",
     "Application.session1.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,7 +73,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propCompiler",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -108,7 +115,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -135,6 +143,10 @@
       <workItem from="1712158034345" duration="30000" />
       <workItem from="1712193469884" duration="270000" />
       <workItem from="1712203800224" duration="2452000" />
+      <workItem from="1712267573345" duration="319000" />
+      <workItem from="1712364838390" duration="62000" />
+      <workItem from="1712367166329" duration="1160000" />
+      <workItem from="1712368518704" duration="4607000" />
     </task>
     <task id="LOCAL-00001" summary="InClass">
       <option name="closed" value="true" />
@@ -208,7 +220,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712210869712</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="InClass">
+      <option name="closed" value="true" />
+      <created>1712267715824</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712267715824</updated>
+    </task>
+    <task id="LOCAL-00011" summary="InClass">
+      <option name="closed" value="true" />
+      <created>1712325564211</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712325564211</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,5 +245,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="InClass" />
     <option name="LAST_COMMIT_MESSAGE" value="InClass" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
