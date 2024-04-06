@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2faebbf-aae5-4f92-a668-a048d75965d7" name="Changes" comment="InClass">
-      <change afterPath="$PROJECT_DIR$/Collection/src/labguide5/LyricSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/labguide5/LyricWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/labguide5/PlanetDiameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/labguide5/StudentManagement/AppManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collection/src/labguide5/StudentManagement/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/src/labguide5/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collection/src/labguide5/ArrayListDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +48,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ArrayListDemo.executor": "Run",
     "Application.Array_List.executor": "Run",
     "Application.LyricSet.executor": "Run",
     "Application.LyricSetHashSet.executor": "Run",
@@ -146,7 +143,7 @@
       <workItem from="1712267573345" duration="319000" />
       <workItem from="1712364838390" duration="62000" />
       <workItem from="1712367166329" duration="1160000" />
-      <workItem from="1712368518704" duration="4607000" />
+      <workItem from="1712368518704" duration="6848000" />
     </task>
     <task id="LOCAL-00001" summary="InClass">
       <option name="closed" value="true" />
@@ -236,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712325564211</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="InClass">
+      <option name="closed" value="true" />
+      <created>1712373676096</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712373676096</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
