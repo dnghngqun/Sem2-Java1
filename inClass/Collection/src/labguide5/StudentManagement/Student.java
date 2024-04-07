@@ -6,7 +6,7 @@ public class Student {
     private float Mark;
     private int age;
 
-    public Student(String name, int rollNumber, float mark, int age) {
+    public Student (int rollNumber, String name, float mark, int age) {
         this.name = name;
         this.RollNumber = rollNumber;
         this.Mark = mark;
@@ -48,5 +48,14 @@ public class Student {
         this.age = age;
     }
 
+    @Override
+    public String toString() {
+        return "Student{ " +
+                "RollNumber='" + name + '\'' +
+                ", name=" + RollNumber +
+                ", Mark=" + Mark +
+                ", age=" + age +
+                " }";
+    }
 }
 
