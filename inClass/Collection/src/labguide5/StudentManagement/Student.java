@@ -50,12 +50,10 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student{ " +
-                "RollNumber='" + name + '\'' +
-                ", name=" + RollNumber +
-                ", Mark=" + Mark +
-                ", age=" + age +
-                " }";
+        return "RollNumber: " + this.RollNumber +
+                ", name: " + this.name +
+                ", Mark: " + this.Mark +
+                ", age: " + this.age;
     }
 }
 
