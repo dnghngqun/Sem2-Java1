@@ -1,3 +1,4 @@
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Account {
@@ -56,19 +57,19 @@ public class Account {
         System.out.print("Enter customer name: ");
         this.customerName = scanner.next();
 
-        System.out.print("Enter account number: ");
-        this.accNumber = scanner.nextInt();
-
-        //check account number
-        String[] accNumberArr = Integer.toString(accNumber).split("");
-        while (accNumberArr.length != 6
-                || !accNumberArr[0].equals("1")
-                || !accNumberArr[1].equals("0")
-                || !accNumberArr[2].equals("0")){
-            System.out.print("Account number must be 6 digits and start with '100'. Enter again: ");
+            System.out.print("Enter account number: ");
             this.accNumber = scanner.nextInt();
-            accNumberArr = String.valueOf(accNumber).split("");
-        }
+
+            //check account number
+            String[] accNumberArr = Integer.toString(accNumber).split("");
+            while (accNumberArr.length != 6
+                    || !accNumberArr[0].equals("1")
+                    || !accNumberArr[1].equals("0")
+                    || !accNumberArr[2].equals("0")) {
+                System.out.print("Account number must be 6 digits and start with '100'. Enter again: ");
+                this.accNumber = scanner.nextInt();
+                accNumberArr = String.valueOf(accNumber).split("");
+            }
 
     }
 
@@ -96,7 +97,7 @@ public class Account {
         }
 
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
 
         Account account = new Account();
         System.out.println("Welcome to ATM");
@@ -127,10 +128,5 @@ public class Account {
                 break;
             }
         }
-
-
-
-
-
     }
 }
