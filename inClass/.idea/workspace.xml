@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2faebbf-aae5-4f92-a668-a048d75965d7" name="Changes" comment="InClass" />
+    <list default="true" id="b2faebbf-aae5-4f92-a668-a048d75965d7" name="Changes" comment="InClass">
+      <change beforePath="$PROJECT_DIR$/../Exam/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise/lab6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise/lab6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,40 +53,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.AppManagement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ApplicationExam.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayListDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_List.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedListDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LyricSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LyricSetHashSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LyricWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PlanetDiameters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.session1.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hongquan/code/vscode/Aptech/SEM 2/T2307M/Java1/InClass&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AppManagement.executor": "Run",
+    "Application.ApplicationExam.executor": "Run",
+    "Application.ArrayListDemo.executor": "Run",
+    "Application.Array_List.executor": "Run",
+    "Application.LinkedListDemo.executor": "Run",
+    "Application.LyricSet.executor": "Run",
+    "Application.LyricSetHashSet.executor": "Run",
+    "Application.LyricWorld.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PlanetDiameters.executor": "Run",
+    "Application.session1.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/hongquan/code/vscode/Aptech/SEM 2/T2307M/Java1/InClass",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Array_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array_List" />
       <module name="Collection" />
@@ -154,6 +158,8 @@
       <workItem from="1712368518704" duration="7742000" />
       <workItem from="1712376823670" duration="4964000" />
       <workItem from="1712568004876" duration="16315000" />
+      <workItem from="1712631645184" duration="599000" />
+      <workItem from="1712693675604" duration="372000" />
     </task>
     <task id="LOCAL-00001" summary="InClass">
       <option name="closed" value="true" />
