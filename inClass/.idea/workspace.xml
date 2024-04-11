@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2faebbf-aae5-4f92-a668-a048d75965d7" name="Changes" comment="InClass">
-      <change beforePath="$PROJECT_DIR$/../Exam/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exam/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise/lab6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise/lab6/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b2faebbf-aae5-4f92-a668-a048d75965d7" name="Changes" comment="inclass">
+      <change afterPath="$PROJECT_DIR$/EmpManagerSystem/src/com/example/entity/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -82,7 +81,7 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "dev.gabrielchl.intellijpets.settings.AppSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -159,7 +158,8 @@
       <workItem from="1712376823670" duration="4964000" />
       <workItem from="1712568004876" duration="16315000" />
       <workItem from="1712631645184" duration="599000" />
-      <workItem from="1712693675604" duration="372000" />
+      <workItem from="1712693675604" duration="896000" />
+      <workItem from="1712799069745" duration="255000" />
     </task>
     <task id="LOCAL-00001" summary="InClass">
       <option name="closed" value="true" />
@@ -297,7 +297,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712601238719</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Exam">
+      <option name="closed" value="true" />
+      <created>1712694192678</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712694192678</updated>
+    </task>
+    <task id="LOCAL-00019" summary="lab6">
+      <option name="closed" value="true" />
+      <created>1712694219612</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1712694219612</updated>
+    </task>
+    <task id="LOCAL-00020" summary="inclass">
+      <option name="closed" value="true" />
+      <created>1712694229214</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1712694229214</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +329,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="InClass" />
-    <option name="LAST_COMMIT_MESSAGE" value="InClass" />
+    <MESSAGE value="Exam" />
+    <MESSAGE value="lab6" />
+    <MESSAGE value="inclass" />
+    <option name="LAST_COMMIT_MESSAGE" value="inclass" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
