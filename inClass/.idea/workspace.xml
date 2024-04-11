@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2faebbf-aae5-4f92-a668-a048d75965d7" name="Changes" comment="inclass">
-      <change afterPath="$PROJECT_DIR$/EmpManagerSystem/src/com/example/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentManagement2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentManagement2/src/com/example/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentManagement2/src/com/example/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentManagement2/src/com/example/model/StudentList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmpManagerSystem/src/com/example/model/EmployeeSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/EmpManagerSystem/src/com/example/model/EmployeeSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +82,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "dev.gabrielchl.intellijpets.settings.AppSettingsConfigurable",
@@ -160,6 +164,10 @@
       <workItem from="1712631645184" duration="599000" />
       <workItem from="1712693675604" duration="896000" />
       <workItem from="1712799069745" duration="255000" />
+      <workItem from="1712803213685" duration="308000" />
+      <workItem from="1712803708242" duration="79000" />
+      <workItem from="1712803810211" duration="3636000" />
+      <workItem from="1712807610508" duration="1149000" />
     </task>
     <task id="LOCAL-00001" summary="InClass">
       <option name="closed" value="true" />

@@ -13,7 +13,7 @@ class CustomException extends Exception {
     public CustomException(String str) {
         super();
         System.out.println(str);
-        EmployeeSystem.opeations();
+        EmployeeSystem.operations();
     }
 }
 public class EmployeeSystem {
@@ -24,16 +24,17 @@ public class EmployeeSystem {
         Employee emp = new Employee(name, age, id);
         map.put(id, emp);
 
-        opeations();
+        operations();
     }
 
-    public static void opeations() {
+    public static void operations() {
         System.out.println("\n****** Employee management system *********");
         System.out.println("1. Add Employee");
         System.out.println("2. Delete Employee");
         System.out.println("3. Search Employee");
         System.out.println("4. Employee List");
 
+        //nhập phương án
         Scanner scanner = new Scanner(System.in);
         int userInput = scanner.nextInt();
 
@@ -71,18 +72,18 @@ public class EmployeeSystem {
                 //e.printStackTrace();
             }
 
-            opeations();
+            operations();
         } else if (userInput == 4) {
             employeeList();
 
-            opeations();
+            operations();
 
         }
 
     }
 
     public static void main(String[] args) {
-        opeations();
+        operations();
     }
 
     public static void employeeList() {
@@ -96,7 +97,7 @@ public class EmployeeSystem {
         } else {
             throw new CustomException("Not Found Exception");
         }
-        opeations();
+        operations();
     }
 
     public static void searchEmployee(int EmpId) throws CustomException {
@@ -105,7 +106,7 @@ public class EmployeeSystem {
         } else {
             throw new CustomException("Not Found Exception");
         }
-        opeations();
+        operations();
     }
 
 
