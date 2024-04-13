@@ -18,9 +18,10 @@ public class IdGenerate {
         * Các vấn đề có thể phát sinh bao gồm dữ liệu bị mất hoặc không nhất quán,
         *  dẫn đến kết quả không chính xác hoặc không mong muốn*/
         try {
-            result = ++id;
+            result = ++id;//tăng rồi gán vào result
         } finally {
-            lock.unlock();
+            lock.unlock();//tăng rồi thì mở cho thread khác cùng truy cập
+            //giống như đi vệ sinh xong thì ra
         }
         return result;
     }

@@ -2,8 +2,8 @@ package Bank.T2307M;
 
 public class ValidateAccount {
     //kiểm tra đăng nhập
-    public final String MOBILE = "0904999999";
-    public final String PASSWORD = "Dang Hong Quan";
+    public final String MOBILE = "0123456789";
+    public final String PASSWORD = "Quan";
 
     public boolean checkAccount(String mobile, String password){
         if(mobile.equals(MOBILE)){
@@ -15,7 +15,7 @@ public class ValidateAccount {
                 return false;
             }
         }else {
-            System.out.println("Check account or pasword again");
+            System.out.println("Account or Password is incorrect, please try again");
             return false;
         }
     }
