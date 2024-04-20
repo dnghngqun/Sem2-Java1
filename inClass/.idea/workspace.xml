@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2faebbf-aae5-4f92-a668-a048d75965d7" name="Changes" comment="inClass">
+      <change afterPath="$PROJECT_DIR$/Collection/src/Set/LinkedHashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/src/Set/SortedSetExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/src/Bank/T2307M/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bank/src/Bank/T2307M/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/src/Bank/T2307M/IdGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bank/src/Bank/T2307M/IdGenerate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank/src/Bank/T2307M/ValidateAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bank/src/Bank/T2307M/ValidateAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +62,14 @@
     &quot;Application.ApplicationExam.executor&quot;: &quot;Run&quot;,
     &quot;Application.ArrayListDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Array_List.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashSetExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinkedListDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.LyricSet.executor&quot;: &quot;Run&quot;,
     &quot;Application.LyricSetHashSet.executor&quot;: &quot;Run&quot;,
     &quot;Application.LyricWorld.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.PlanetDiameters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortedSetExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.session1.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -118,8 +119,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Array_List" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +170,9 @@
       <workItem from="1712807610508" duration="3786000" />
       <workItem from="1712918417950" duration="1943000" />
       <workItem from="1712931671600" duration="124000" />
-      <workItem from="1713018185796" duration="151000" />
+      <workItem from="1713018185796" duration="2937000" />
+      <workItem from="1713578573308" duration="891000" />
+      <workItem from="1713579492871" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="InClass">
       <option name="closed" value="true" />
@@ -355,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712921625843</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="inClass">
+      <option name="closed" value="true" />
+      <created>1713018353771</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1713018353772</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
